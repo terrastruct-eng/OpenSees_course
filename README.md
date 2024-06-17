@@ -1,4 +1,6 @@
 # OpenSees_course
-This repository contains the OpenSees files used in my YouTube tutorials.
+This repository contains the OpenSees files used in our YouTube tutorials.
 
-The videos can be watched here: https://www.youtube.com/@terrastructeng
+Watch our OpenSees tutorial course here: https://www.youtube.com/@terrastructeng
+
+Don't forget to suscribe!
